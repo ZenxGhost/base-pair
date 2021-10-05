@@ -1,0 +1,7 @@
+{
+  "DATE/USDT": {  // pair name
+    "price": 0.079, // central price
+    "up": 0.5, // percent deviation top line 1% = 0.01
+    "down": 0.5  // percent deviation bottom line 1% = 0.01
+  }
+}
